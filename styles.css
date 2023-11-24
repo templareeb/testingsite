@@ -1,0 +1,38 @@
+.div1{
+  text-align: center;
+  border: 5px solid #3A4D39;
+  padding: 20px;
+}
+
+h1{
+  border: 5px solid #3A4D39;
+  background-color: #739072
+
+}
+
+html{
+  background-color: #ECE3CE;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+li{
+  margin-right: 40px;
+}
+.list{
+  border: 5px solid  #3A4D39;
+  margin-top: 10px;
+  background-color: #739072
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.work{
+  text-align: center;
+  border: 5px solid  #3A4D39;
+  margin-top: 10px;
+}
